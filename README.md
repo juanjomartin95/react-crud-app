@@ -30,3 +30,4 @@ npm run start
 - Tailwind
 - Eslint
 - Prettier
+- Axios
