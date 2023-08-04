@@ -1,9 +1,10 @@
+import { useGetPokemonQuery } from '@/services/query/pokemon.ts'
+
 function App() {
-  return (
-    <>
-      Hello World
-    </>
-  )
+  const { data } = useGetPokemonQuery({})
+  console.log(data)
+
+  return <>Hello World</>
 }
 
 export default App
