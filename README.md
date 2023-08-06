@@ -35,3 +35,4 @@ npm run start
 - RTK Query
 - Sass
 - Tailwind
+- i18next & react-i18next
