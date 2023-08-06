@@ -33,3 +33,5 @@ npm run start
 - Axios
 - Redux Toolkit
 - RTK Query
+- Sass
+- Tailwind
