@@ -31,3 +31,5 @@ npm run start
 - Eslint
 - Prettier
 - Axios
+- Redux Toolkit
+- RTK Query
